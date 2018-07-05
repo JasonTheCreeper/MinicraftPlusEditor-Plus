@@ -9,7 +9,9 @@ MinicraftPlus Editor+
 
 程序语言:Windows 命令处理程序(批处理) 
 
-编写环境:Microsoft Windows 10 家庭版 64位 Windows 命令处理程序10.0.10240.16384 
+编写环境:Microsoft Windows 10 家庭版 64位 
+
+Windows 命令处理程序10.0.10240.16384 
 
 编译工具:Bat To Exe Converter 3.0.10.0 
 
